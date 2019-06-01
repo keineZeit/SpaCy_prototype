@@ -8,10 +8,13 @@ with open('./data/bailii_test_case.txt') as f:
 sents = unicode(sents)
 
 doc = nlp(sents)
-result_file = open('./data/bailii_test_case_result.txt', 'w+')
+result_list = []
 for ent in doc.ents:
-    result_file.write(ent.text + ', ' + ent.label_ + '\n')
+    result_list.append(ent.text + ', ' + ent.label_)
     #print(ent.text, ent.start_char, ent.end_char, ent.label_)
+result_list = list(dict.fromkeys(result_list))
+
+result_file = open('./data/bailii_test_case_result.txt', 'w+')
+for sent in result_list:
+    result_file.write(sent + '\n')
 result_file.close()
-
-
