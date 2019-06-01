@@ -1,0 +1,389 @@
+Robin Knowles:\n', PERSON
+Unitech Limited, WORK_OF_ART
+Unitech, WORK_OF_ART
+over US$10 billion, MONEY
+Claimants, ORG
+Court, ORG
+two, CARDINAL
+US$300, MONEY
+Court, ORG
+Claimants, ORG
+Court, ORG
+Mr Shah, PERSON
+Mr Harding, PERSON
+Unitech, WORK_OF_ART
+Claimants, ORG
+Unitech, ORG
+Unitech, ORG
+June 2017, DATE
+several years, DATE
+Unitech, ORG
+Unitech, ORG
+Unitech Global Limited, WORK_OF_ART
+UGL, ORG
+Claimants, ORG
+the Lenders, WORK_OF_ART
+24 September 2007, DATE
+Unitech, ORG
+UGL, ORG
+UGL\, ORG
+Credit Agreement, ORG
+the Guarantee and Indemnity, ORG
+the Credit Agreement.\n', ORG
+Guarantee, NORP
+Unitech, ORG
+UGL\, ORG
+UGL, ORG
+Deutsche Bank AG, ORG
+Claimant, NORP
+second, ORDINAL
+19 September 2007, DATE
+Swap, ORG
+the Credit Agreement, ORG
+Swap, ORG
+July 2011, DATE
+first, ORDINAL
+Unitech, ORG
+Guarantee, NORP
+UGL, ORG
+second, ORDINAL
+Unitech, ORG
+Guarantee, NORP
+Swap.\n, PRODUCT
+the Credit Agreement, LAW
+Swap, PERSON
+Unitech, ORG
+Claimants, ORG
+Unitech, ORG
+the Misrepresentation Defence.\n', ORG
+Court, ORG
+Carr J, PERSON
+20 June 2018, DATE
+Unitech, ORG
+UGL, ORG
+Jersey, GPE
+June 2007, DATE
+Unitech, ORG
+Credit Agreement, ORG
+Unitech, ORG
+Mr Sanjay Chandra, PERSON
+Unitech, ORG
+Mr JP Mehrotra.\n', ORG
+Unitech, ORG
+6 July 2007, DATE
+approximately USD 200 million, MONEY
+3.5 years, DATE
+6, CARDINAL
+250, CARDINAL
+the end of July 2007, DATE
+first, ORDINAL
+the Credit Agreement, ORG
+Unitech, ORG
+the start of August 2007, DATE
+at least 350, CARDINAL
+Unitech, ORG
+early September, DATE
+three, CARDINAL
+11 September 2007, DATE
+Mr Chandra, PRODUCT
+four, CARDINAL
+four, CARDINAL
+the Credit Agreement, LAW
+13 September 2007, DATE
+Mr Chandra, WORK_OF_ART
+Unitech, ORG
+UGL, ORG
+four, CARDINAL
+USD LIBOR.\n', ORG
+18 September 2007, DATE
+19 September 2007, DATE
+Mr Chandra, PRODUCT
+Swap, PERSON
+Unitech, ORG
+Mr Ashish Srivastava, ORG
+19 September 2007, DATE
+Mr Anuj Malik, PERSON
+Unitech, ORG
+the Middle East, LOC
+UGL, GPE
+Swap, PRODUCT
+Swap, NORP
+USD 150 million, CARDINAL
+London, GPE
+UGL 6M USD LIBOR, ORG
+3.25%, PERCENT
+UGL, ORG
+8.00%, PERCENT
+3.00%, PERCENT
+N/M, ORG
+N, ORG
+6, CARDINAL
+5.75%, PERCENT
+4.00%, PERCENT
+the State Bank of India, ORG
+Swap, NORP
+15 October 2007, DATE
+UGL, ORG
+Confirmation, ORG
+Swap, ORG
+2002, DATE
+Confirmation, ORG
+2002, DATE
+Swap, ORG
+the Credit Agreement, LAW
+Swap, PERSON
+Swap, PERSON
+Unitech, ORG
+UGL, ORG
+Swap, PERSON
+24 September, DATE
+the Credit Agreement, LAW
+the Investment Vehicles, LOC
+the Business Plan, LAW
+Facility, WORK_OF_ART
+The Investment Vehicles, LOC
+Unitech, ORG
+UGL, ORG
+Cyprus, ORG
+the Cayman Islands, GPE
+the Isle of Man, GPE
+6, CARDINAL
+Loan, PERSON
+four, CARDINAL
+first, ORDINAL
+24 months, DATE
+60 months, DATE
+24, CARDINAL
+September, DATE
+8.1, CARDINAL
+3.25%, PERCENT
+8.3, CARDINAL
+the Facility Agent, ORG
+Hong Kong Branch, GPE
+8.3(b, CARDINAL
+2%, PERCENT
+15.1, CARDINAL
+Unitech, ORG
+UGL, ORG
+the Credit Agreement, LAW
+Confirmation, ORG
+Unitech, ORG
+Claimants, ORG
+Unitech, ORG
+Unitech, ORG
+Claimants, ORG
+UGL, ORG
+21.14, CARDINAL
+Events of Default, ORG
+21.2, CARDINAL
+UGL, ORG
+Unitech, ORG
+the Finance Documents, ORG
+21.15, CARDINAL
+Confirmation, ORG
+the Credit Agreement, LAW
+Between 12 March 2008, DATE
+22 July 2011, DATE
+Second, ORDINAL
+Ninth Claimants, ORG
+Lenders, ORG
+Unitech, ORG
+Lenders, ORG
+Lenders, PERSON
+the Credit Agreement, LAW
+UGL, ORG
+Loan, NORP
+6, CARDINAL
+early 2009, DATE
+October 2010, DATE
+Loan, PERSON
+UGL, ORG
+Unitech, ORG
+first, ORDINAL
+20 million, CARDINAL
+USD 15 million, MONEY
+25 November 2010, DATE
+USD 2.5 million, MONEY
+31 January 2011, DATE
+28, CARDINAL
+2011.\n', EVENT
+11 March 2011, DATE
+Lenders, PERSON
+Loan, ORG
+UGL, ORG
+Unitech, ORG
+Loan, ORG
+UGL, ORG
+Unitech.\n, GPE
+Swap, PERSON
+25 March 2011, DATE
+UGL, ORG
+USD 5,470,755.79, ORG
+Swap, PRODUCT
+section 2(a)(i, LAW
+the Master Agreement, ORG
+the Master Agreement, ORG
+Notice, ORG
+UGL, ORG
+Unitech, ORG
+13 July 2011, DATE
+21.2, CARDINAL
+the Credit Agreement.\n', ORG
+By a Notice of Early Termination, WORK_OF_ART
+15 July 2011, DATE
+UGL, ORG
+Unitech, ORG
+the Master Agreement, ORG
+18 July 2011, DATE
+20 July 2011, DATE
+UGL, ORG
+Unitech, ORG
+20 July 2011, DATE
+Swap.\n, PRODUCT
+the Early Termination Amount, EVENT
+UGL, ORG
+16 September 2011, DATE
+Demand Notice, ORG
+Unitech, ORG
+Guarantee, NORP
+Indemnity, NORP
+the Early Termination Amount, EVENT
+Swap.\n, PRODUCT
+The Misrepresentation Defence\n', WORK_OF_ART
+Lenders, ORG
+UGL, ORG
+Unitech, ORG
+Guarantee, NORP
+Indemnity.\n, GPE
+Misrepresentation Defence, ORG
+first, ORDINAL
+April 2012, DATE
+two, CARDINAL
+first, ORDINAL
+second, ORDINAL
+January, DATE
+Unitech, ORG
+first, ORDINAL
+Swap, PERSON
+UGL, ORG
+the Credit Agreement, LAW
+Unitech, ORG
+the Credit Agreement, LAW
+Guarantee, NORP
+Indemnity.\n, GPE
+Unitech, ORG
+first, ORDINAL
+1)\tUnitech, CARDINAL
+\xe2\x80\x93, PERSON
+\xe2\x80\x93, GPE
+the "Suitability Recommendation", LAW
+Swap, NORP
+UGL/Unitech\'s, ORG
+Credit Agreement, ORG
+Suitability Recommendation, ORG
+last-minute, TIME
+September 2007, DATE
+Swap, PRODUCT
+Unitech, ORG
+Unitech, ORG
+Swap, ORG
+Swap, NORP
+Swap, PRODUCT
+Loan, NORP
+zero, CARDINAL
+Swap, NORP
+Loan, PERSON
+two years, DATE
+Swap, ORG
+6, CARDINAL
+Swap, PRODUCT
+Unitech, ORG
+Unitech, ORG
+Swap, ORG
+Unitech, ORG
+Suitability Recommendation, ORG
+Swap, PRODUCT
+Guarantee, NORP
+Indemnity.\n, GPE
+the Guarantee and Indemnity, ORG
+Claimants, ORG
+second, ORDINAL
+the Misrepresentation Defence, ORG
+Unitech, ORG
+the Credit Agreement, LAW
+Guarantee, NORP
+Indemnity.\n, GPE
+'\n', WORK_OF_ART
+Unitech, ORG
+Misrepresentation Defence, ORG
+Unitech, ORG
+Unitech, ORG
+Unitech, ORG
+2007, DATE
+2019, CARDINAL
+EWHC 366, LAW
+279, CARDINAL
+Picken J, PERSON
+281]-[288, CARDINAL
+the Misrepresentation Defence, ORG
+Unitech, ORG
+Unitech, ORG
+Suitability Recommendation, FAC
+Unitech, ORG
+Unitech, ORG
+Lenders, ORG
+Lenders, ORG
+Unitech, ORG
+Suitability Recommendation, ORG
+Swap, ORG
+the Credit Agreement, LAW
+September 2007, DATE
+Unitech/UGL, ORG
+2012, DATE
+Lenders, PERSON
+two, CARDINAL
+Claimants, ORG
+Court, ORG
+Unitech, ORG
+Court, ORG
+Mr Richard Handyside QC, ORG
+Ms Sonia Tolaney QC, ORG
+Mr Adam Sher, PERSON
+Claimants, ORG
+Court, ORG
+Unitech, PERSON
+Unitech, ORG
+Misrepresentation Defence, ORG
+The Misrepresentation Defence, ORG
+Unitech, ORG
+Unitech, ORG
+Unitech, ORG
+Lenders, PERSON
+the Credit Agreement, LAW
+Unitech, ORG
+Unitech, ORG
+Swap, PRODUCT
+USD 293,476,217.37, PRODUCT
+8.3, CARDINAL
+15.9, CARDINAL
+Swap, PRODUCT
+Court, ORG
+Unitech, ORG
+first, ORDINAL
+two, CARDINAL
+USD 293,476,217.37.\n', ORG
+'\n', WORK_OF_ART
+Swap, PRODUCT
+the Early Termination Amount, LAW
+UGL, ORG
+Unitech, ORG
+the Early Termination Amount, LAW
+20 July 2011, DATE
+Unitech, ORG
+the Credit Agreement Interest Method:, ORG
+Unitech, ORG
+Amended Defence, ORG
+second, ORDINAL
+two, CARDINAL
+the Credit Agreement Interest Method, ORG
+Court, ORG
